@@ -1,0 +1,40 @@
+Passionfruit : yellow wrinkly fruit
+Watermelon : giant green and red fruit
+Honeydew : type of melon that is always offered at val
+Pineapple : spiky fruit with tangy taste
+Jasmine : plant with white flowers, often used in teas
+Abacaxi : pineapple in portuguese
+Frango : chicken in portuguese
+Orange : fruit that shares name with a color
+Durian : strongly odored fruit that is considered a delicacy in Southeast Asia
+Lychee : small white fruit with a hard red shell
+Banana : fruit often associated with monkeys
+Grapes : used to make wine
+Apple : used to make cider
+Cellphone : a
+Deck : a
+Plastic : b
+Bottle : c
+Spinner : e
+Chair : w
+Quadricycle : r
+Restaurant : y
+Blackboard : u
+Funnily : i
+ComputerScience : 9
+BiddyMartin : 7
+Window : y
+Flooring : y
+Backpack : u
+Basketball : 8
+Photograph : r
+Willow : f
+Football : d
+Flabbergasting : a
+Volleyball : s
+Headphones : f
+Condition : d
+FigureSkating : a
+Primavera : a
+WeNeedMoreWords : g
+ThisReallyNeedsToWork : a
